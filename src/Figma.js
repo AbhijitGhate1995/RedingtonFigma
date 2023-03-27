@@ -454,7 +454,7 @@ const BarLineChart5 = {
   ] 
 
 };
-// Horizontal bar & Bar Line Chart number 6
+// Horizontal bar & BarLine Chart number 6
 
     const horizontalChart={
       title: {
@@ -559,6 +559,7 @@ const BarLineChart5 = {
                 </div>
 
             {/* 2nd card of Margin */}
+            {/* 2nd card */}
 
             <div className="flex flex-col h-72 m-4 border-2 rounded-md border-gray-400 w-1/2">
                <div className=" flex flex-row justify-between">
