@@ -1,9 +1,5 @@
 import React,{useState} from "react";
-import { Sidebar } from 'primereact/sidebar';
-import { Button } from 'primereact/button';
 import ReactECharts from 'echarts-for-react';
-import { color } from "echarts";
-import { SplitButton } from 'primereact/splitbutton';
 
 
 export default function RedingtonFigma(){
